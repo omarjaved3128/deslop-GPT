@@ -1,0 +1,5 @@
+[project]
+name = "deslop-gpt"
+version = "0.1.0"
+description = "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving behavior."
+requires-python = ">=3.10"
